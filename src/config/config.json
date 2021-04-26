@@ -1,0 +1,17 @@
+{
+    "database": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "connectionLimit": 10000000,
+        "database": ""
+    },
+    "server": {
+        "port": 8181,
+        "pageSize": 100,
+        "logger": {
+            "format": "tiny"
+        },
+        "jwtSign": "125034d5c91fb92fec295b5e2f6a7ffc"
+    }
+}
